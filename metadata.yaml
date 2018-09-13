@@ -1,20 +1,25 @@
 _repo: A-Schoolmaster-s-Diary-Being-Extracts-from-the-Journal-of-Patrick-Traherne-MA-Sometime-Assist__51633
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51633-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Traherne, Patrick
-    birthdate: &id001 1885
+    birthdate: 1885
     deathdate: 1917
     gutenberg_agent_id: '49104'
     url: http://www.gutenberg.org/2009/agents/49104
   editor:
     agent_name: Mais, S. P. B. (Stuart Petre Brodie)
     alias: Mais, Stuart Petre Brodie
-    birthdate: *id001
+    birthdate: 1885
     deathdate: 1975
     gutenberg_agent_id: '41092'
     url: http://www.gutenberg.org/2009/agents/41092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51633#A-Schoolmaster-s-Diary-Being-Extracts-from-the-Journal-of-Patrick-Traherne-MA-Sometime-Assist_
 gutenberg_issued: '2016-04-02'
 gutenberg_type: Text
 identifiers:
